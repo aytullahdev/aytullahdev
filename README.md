@@ -31,3 +31,4 @@
 	4) https://candid-gelato-1f9e42.netlify.app/ (ADDING REVIEWS)
 	5) https://clinquant-ganache-3a4356.netlify.app/
 	6) https://storied-biscochitos-0b620e.netlify.app/
+(Nr0ng,cursera,tagle)
