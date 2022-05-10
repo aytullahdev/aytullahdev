@@ -3,7 +3,7 @@
 
 | Live Site            | Repo                                                               |
 | -------------------- | ------------------------------------------------------------------ |
-|  https://dobybox-dff3a.web.app | [Link](https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-aytullahdev)
+|  https://dobybox-dff3a.web.app | [Link](https://github.com/aytullahdev/dobybox-client)
 |  https://instructor-b4532.web.app | [Link](https://github.com/aytullahdev/independent-service-provider)
 |  https://doctorsportal-f4625.web.app/ | [Link](https://github.com/aytullahdev/doctorsportals)
 
