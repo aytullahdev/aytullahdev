@@ -8,6 +8,7 @@
 |  https://todospacial.web.app/	 | [Link](https://github.com/aytullahdev/todoapp_spacial)
 
 
+## These are practice project 
 ## Front-End:
  * Only Css:
 	1) https://aytullahdev.github.io/website6/#about
