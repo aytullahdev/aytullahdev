@@ -5,7 +5,6 @@
 | -------------------- | ------------------------------------------------------------------ |
 |  [Menufecture](https://menufecture-a33d3.web.app/) | [Link](https://github.com/aytullahdev/menufeture)
 |  [Dobybox](https://dobybox-dff3a.web.app) | [Link](https://github.com/aytullahdev/dobybox-client)
-|  [Instructor](https://instructor-b4532.web.app) | [Link](https://github.com/aytullahdev/independent-service-provider)
 |  [Todo](https://todospacial.web.app/)	 | [Link](https://github.com/aytullahdev/todoapp_spacial)
 
 
