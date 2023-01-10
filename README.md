@@ -1,11 +1,4 @@
 ### Hi there 👋
-## React
-
-| Live Site            | Repo                                                               |
-| -------------------- | ------------------------------------------------------------------ |
-|  [Menufecture](https://menufecture-a33d3.web.app/) | [Link](https://github.com/aytullahdev/menufeture)
-|  [Dobybox](https://dobybox-dff3a.web.app) | [Link](https://github.com/aytullahdev/dobybox-client)
-|  [Todo](https://todospacial.web.app/)	 | [Link](https://github.com/aytullahdev/todoapp_spacial)
 
 
 ## These are practice project 
@@ -40,4 +33,12 @@
 	6) https://storied-biscochitos-0b620e.netlify.app/
 	7) https://travelguru-9511f.firebaseapp.com/ (Google and facebook login)
 	8) https://doctorsportal-f4625.web.app/ | [Link](https://github.com/aytullahdev/doctorsportals)
+## React ( Some Daisy UI error need to fixes )
+
+| Live Site            | Repo                                                               |
+| -------------------- | ------------------------------------------------------------------ |
+|  [Menufecture](https://menufecture-a33d3.web.app/) | [Link](https://github.com/aytullahdev/menufeture)
+|  [Dobybox](https://dobybox-dff3a.web.app) | [Link](https://github.com/aytullahdev/dobybox-client)
+|  [Todo](https://todospacial.web.app/)	 | [Link](https://github.com/aytullahdev/todoapp_spacial)
+
 (Nr0ng,cursera,tagle)
