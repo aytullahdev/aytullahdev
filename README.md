@@ -2,7 +2,7 @@
 
 
 ## These are practice project 
-## Front-End:
+## Front-End: ( Online Tutorial and Self try)
  * Only Css:
 	1) https://aytullahdev.github.io/website6/#about
 	2) https://aytullahdev.github.io/assignment1phero/
