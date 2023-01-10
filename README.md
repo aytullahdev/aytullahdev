@@ -33,7 +33,7 @@
 	6) https://storied-biscochitos-0b620e.netlify.app/
 	7) https://travelguru-9511f.firebaseapp.com/ (Google and facebook login)
 	8) https://doctorsportal-f4625.web.app/ | [Link](https://github.com/aytullahdev/doctorsportals)
-## React ( Some Daisy UI error need to fixes )
+## React ( Some Daisy UI error need to fix )
 
 | Live Site            | Repo                                                               |
 | -------------------- | ------------------------------------------------------------------ |
