@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://aytullahdev.github.io/
+[Protfolio](https://aytullahdev.github.io/Portfolio/)
 
 "Embarking on a transformative odyssey, navigating through the realms of coding brilliance, relentless practice, and even a touch of coding 'trash' to refine my craft."
 ## Project 
