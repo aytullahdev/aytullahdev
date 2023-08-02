@@ -2,6 +2,8 @@
 https://aytullahdev.github.io/
 
 "Embarking on a transformative odyssey, navigating through the realms of coding brilliance, relentless practice, and even a touch of coding 'trash' to refine my craft."
+## Project 
+	1) https://learner-akatsuki.netlify.app/
 ## Front-End: ( Online Tutorial and Self try)
  * Only Css:
 	1) https://aytullahdev.github.io/website6/#about
